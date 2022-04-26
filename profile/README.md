@@ -1,1 +1,3 @@
-<h1><p align='center'><code>💎 Digital Diamond 💎</code></p></h1>
+<div akign='center'>
+  <img src='https://raw.githubusercontent.com/DigitalDiamond-Developers/.github/main/profile/head.svg' alt='header svg'>
+</div>
