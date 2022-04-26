@@ -1,0 +1,23 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        a{
+        text-decoration:none;
+        pointer: none;
+        }
+      </style>
+      <div>
+        <h1>
+          <p align="center">
+            <a href="https://digital-diamond.xyz" target="_blank">
+              <code>
+                💎 Digital Diamond 💎
+              </code>
+            </a>
+          </p>
+        </h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
